@@ -22,3 +22,8 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+header {
+  text-align: center;
+  color: white;
+  background-image: url(../images/apple-pie.jpg)
+}
